@@ -16,9 +16,9 @@ if 'done_count' not in st.session_state:
     st.session_state.done_count = 0
 
 # --- THE ORIGINAL COLORS ---
-bg_color = "#c2c395"     
-title_color = "#4C3D19"  
-card_color = "#fdfae1"   
+bg_color = "#A0C4FF"     
+title_color = "#27AE60"  
+card_color = "#9BF6FF"   
 
 # 3. CSS Styling
 st.markdown(
