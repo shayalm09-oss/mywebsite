@@ -16,7 +16,7 @@ if 'done_count' not in st.session_state:
     st.session_state.done_count = 0
 
 # --- THE ORIGINAL COLORS ---
-bg_color = "#A0C4FF"     
+bg_color = "#A9C0D0"     
 title_color = "#27AE60"  
 card_color = "#9BF6FF"   
 
