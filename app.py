@@ -16,7 +16,7 @@ if 'done_count' not in st.session_state:
     st.session_state.done_count = 0
 
 # --- THE ORIGINAL COLORS ---
-bg_color = "#9BF6FF"     
+bg_color = "#A0C4FF"     
 title_color = "#27AE60"  
 card_color = "#9BF6FF"   
 
@@ -25,7 +25,7 @@ st.markdown(
     f"""
     <style>
     .stApp {{ background-color: {bg_color}; }}
-    [data-testid="stSidebar"] {{ background-color: #A0C4FF; }} 
+    [data-testid="stSidebar"] {{ background-color: #CAFFBF; }} 
     h1, h2, h3, h4 {{ color: {title_color} !important; font-family: 'Helvetica', sans-serif; }}
     .stMarkdown p, label {{ color: {title_color} !important; }}
     .task-card {{
