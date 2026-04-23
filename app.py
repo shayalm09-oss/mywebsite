@@ -20,7 +20,7 @@ st.markdown(
 )
 
 st.header("To Do List")
-st.write("My superb website will now evaluate your laziness.")
+
 
 # Input fields
 name = st.text_input("Name of task")
