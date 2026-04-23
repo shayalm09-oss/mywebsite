@@ -25,7 +25,7 @@ st.markdown(
     f"""
     <style>
     .stApp {{ background-color: {bg_color}; }}
-    [data-testid="stSidebar"] {{ background-color: #CAFFBF; }} 
+    [data-testid="stSidebar"] {{ background-color: #BCC8B2; }} 
     h1, h2, h3, h4 {{ color: {title_color} !important; font-family: 'Helvetica', sans-serif; }}
     .stMarkdown p, label {{ color: {title_color} !important; }}
     .task-card {{
